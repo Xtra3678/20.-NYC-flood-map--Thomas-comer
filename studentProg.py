@@ -1,5 +1,5 @@
-# Name:  thomas.comer82@hunter
-# Email: ... your email here ...
+# Name:  T.J. Comer
+# Email: thomas.comer82@hunter
 # Date:  October 17 2022
 # Takes elevation data of NYC and displays a flood map showing 6ft flooding in yellow and 20 ft flooding in grey
 
